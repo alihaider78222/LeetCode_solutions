@@ -29,6 +29,8 @@
 
 */
 
+/// @author : Ali Haider @alihaider78222
+
 /// Run this file using command "dart dart/4_median_of_two_sorted_arrays.dart" in terminal
 
 void main() {

@@ -25,6 +25,8 @@
 
 */
 
+/// @author : Ali Haider @alihaider78222
+
 /// Run this file using command "dart dart/5_longest_palindromic_substring.dart" in terminal
 
 void main() {

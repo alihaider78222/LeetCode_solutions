@@ -29,6 +29,8 @@
 
 */
 
+/// @author : Ali Haider @alihaider78222
+
 /// Run this file using command "dart dart/3_longest_substring_without_repeating_characters.dart" in terminal
 
 import 'dart:math';
