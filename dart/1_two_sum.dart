@@ -1,6 +1,7 @@
 /*
 
-  Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+  Given an array of integers nums and an integer target, return indices of the two numbers such that they add 
+  up to target.
 
   You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
@@ -37,8 +38,6 @@
 */
 
 /// @author : Ali Haider @alihaider78222
-
-/// Run this file using command "dart dart/1_two_sum.dart" in terminal
 
 void main() {
   List<int> nums = [2, 7, 11, 15];

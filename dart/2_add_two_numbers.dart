@@ -36,8 +36,6 @@
 
 /// @author : Ali Haider @alihaider78222
 
-/// Run this file using command "dart dart/2_add_two_numbers.dart" in terminal
-
 void main() {
   ListNode l1 = ListNode(2, ListNode(4, ListNode(3, null)));
   ListNode l2 = ListNode(5, ListNode(6, ListNode(4, null)));

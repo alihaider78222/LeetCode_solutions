@@ -44,9 +44,6 @@
 
 /// @author : Ali Haider @alihaider78222
 
-/// Run this file using command "dart dart/6_zigzag_conversion.dart.dart" in terminal
-
-// ✅
 void main() {
   String s = 'AB';
   // String s = 'PAY';
