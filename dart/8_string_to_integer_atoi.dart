@@ -146,7 +146,7 @@ int myAtoi(String s) {
 }
 
 bool isDigit(String s) {
-  if (s == null || s == '') {
+  if (s == '') {
     return false;
   }
   return int.tryParse(s) != null;
